@@ -1,0 +1,48 @@
+/* Mahasiswa */
+
+/* Dashboard Mahasiswa */
+.identitas-mhs {
+    display: flex;
+    justify-content: space-around;
+}
+
+.tengah-db {
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.ayam {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 92%;
+}
+
+
+
+/* Dosen */
+
+/* Page Pembimbing MBKM */
+.popup {
+    visibility: hidden;
+}
+
+.open-popup {
+    visibility: visible;
+}
+
+/* Page Pembimbing MBKM Detail */
+.judul-tabel {
+    display: flex;
+    justify-content: space-between;
+}
+
+.judul-tabel i {
+    font-size: 25px;
+    color: #000000;
+}
+
+
+
+
+/* Admin */
